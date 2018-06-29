@@ -1,0 +1,11 @@
+C:\Users\abhir\source\repos\SampleAspNetCore\SampleAspNetCore\bin\Debug\netcoreapp2.0\SampleAspNetCore.deps.json
+C:\Users\abhir\source\repos\SampleAspNetCore\SampleAspNetCore\bin\Debug\netcoreapp2.0\SampleAspNetCore.runtimeconfig.json
+C:\Users\abhir\source\repos\SampleAspNetCore\SampleAspNetCore\bin\Debug\netcoreapp2.0\SampleAspNetCore.runtimeconfig.dev.json
+C:\Users\abhir\source\repos\SampleAspNetCore\SampleAspNetCore\bin\Debug\netcoreapp2.0\SampleAspNetCore.dll
+C:\Users\abhir\source\repos\SampleAspNetCore\SampleAspNetCore\bin\Debug\netcoreapp2.0\SampleAspNetCore.pdb
+C:\Users\abhir\source\repos\SampleAspNetCore\SampleAspNetCore\obj\Debug\netcoreapp2.0\SampleAspNetCore.csprojAssemblyReference.cache
+C:\Users\abhir\source\repos\SampleAspNetCore\SampleAspNetCore\obj\Debug\netcoreapp2.0\SampleAspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\abhir\source\repos\SampleAspNetCore\SampleAspNetCore\obj\Debug\netcoreapp2.0\SampleAspNetCore.AssemblyInfoInputs.cache
+C:\Users\abhir\source\repos\SampleAspNetCore\SampleAspNetCore\obj\Debug\netcoreapp2.0\SampleAspNetCore.AssemblyInfo.cs
+C:\Users\abhir\source\repos\SampleAspNetCore\SampleAspNetCore\obj\Debug\netcoreapp2.0\SampleAspNetCore.dll
+C:\Users\abhir\source\repos\SampleAspNetCore\SampleAspNetCore\obj\Debug\netcoreapp2.0\SampleAspNetCore.pdb
